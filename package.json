@@ -1,0 +1,17 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "Trying to learn Electron.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lakshay",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.6.2"
+  },
+  "dependencies": {
+    "jquery": "^3.2.0"
+  }
+}
